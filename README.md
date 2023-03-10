@@ -2,4 +2,4 @@
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
-![CI](https://github.com/TatyanaProhorova/wide-js-appveyor/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/TatyanaProhorova/env1/actions/workflows/web.yml/badge.svg)
